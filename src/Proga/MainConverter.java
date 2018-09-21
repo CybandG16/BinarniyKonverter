@@ -117,7 +117,7 @@ public class MainConverter {
                     else BinaryTail += 1;
                 }
                 if (Tail == 0d) {
-                    System.out.println("it's not neccesery to write all " + decimalplaces + " decimal places");
+                    System.out.println("it's not necessary to write all " + decimalplaces + " decimal places");
                     break;
                 }
             }
